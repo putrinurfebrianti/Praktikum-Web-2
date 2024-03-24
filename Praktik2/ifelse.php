@@ -14,6 +14,3 @@ else {
 }
 
 echo "<h1>$keterangan</h1>";
-
-
-
