@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Praktikum 04</title>
+    <title>Project 01</title>
 
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -38,6 +38,8 @@
                 <li class="nav-item d-none d-sm-inline-block">
                     <a href="../periksa" class="nav-link">Periksa</a>
                 </li>
+                <li class="nav-item d-none d-sm-inline-block">
+                    <a href="logout.php" class="nav-link"><strong>LOG-OUT</strong></a>
             </ul>
 
             <!-- Right navbar links -->

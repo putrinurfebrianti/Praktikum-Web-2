@@ -9,7 +9,7 @@ if(!$_SESSION['user']){
     <!-- Brand Logo -->
     <a href="index3.html" class="brand-link">
         <img src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-        <span class="brand-text font-weight-light">AdminPNF 27</span>
+        <span class="brand-text font-weight-light">Admin Edelweiss</span>
     </a>
 
     <!-- Sidebar -->
